@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`return super heroes that fly 1`] = `
+Array [
+  Object {
+    "name": "Batman",
+    "powers": Array [
+      "rant",
+      "fly",
+    ],
+  },
+]
+`;
